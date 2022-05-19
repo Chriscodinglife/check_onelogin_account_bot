@@ -1,0 +1,7 @@
+greenlet==1.1.2
+playwright==1.22.0
+pyee==8.1.0
+python-dotenv==0.20.0
+slack-bolt==1.13.2
+slack-sdk==3.16.1
+websockets==10.1
